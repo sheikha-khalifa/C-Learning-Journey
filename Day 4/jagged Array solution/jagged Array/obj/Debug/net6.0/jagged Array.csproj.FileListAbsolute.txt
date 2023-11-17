@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\bin\Debug\net6.0\jagged Array.exe
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\bin\Debug\net6.0\jagged Array.deps.json
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\bin\Debug\net6.0\jagged Array.runtimeconfig.json
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\bin\Debug\net6.0\jagged Array.dll
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\bin\Debug\net6.0\jagged Array.pdb
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.AssemblyInfo.cs
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.dll
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\refint\jagged Array.dll
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.pdb
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\jagged Array.genruntimeconfig.cache
+C:\Users\Dell\Desktop\day1,day2\jagged Array solution\jagged Array\obj\Debug\net6.0\ref\jagged Array.dll
