@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\bin\Debug\net6.0\solving problems using C#.exe
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\bin\Debug\net6.0\solving problems using C#.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\bin\Debug\net6.0\solving problems using C#.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\bin\Debug\net6.0\solving problems using C#.dll
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\bin\Debug\net6.0\solving problems using C#.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.dll
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\refint\solving problems using C#.dll
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\solving problems using C#.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\solving problems using C# solution\solving problems using C#\obj\Debug\net6.0\ref\solving problems using C#.dll

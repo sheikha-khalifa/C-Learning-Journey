@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\bin\Debug\net6.0\Task1_day3.exe
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\bin\Debug\net6.0\Task1_day3.deps.json
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\bin\Debug\net6.0\Task1_day3.runtimeconfig.json
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\bin\Debug\net6.0\Task1_day3.dll
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\bin\Debug\net6.0\Task1_day3.pdb
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.dll
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\refint\Task1_day3.dll
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.pdb
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\Task1_day3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\day1,day2\Task1_day3 _solution\Task1_day3\obj\Debug\net6.0\ref\Task1_day3.dll
