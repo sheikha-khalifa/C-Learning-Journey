@@ -9,19 +9,19 @@ namespace Task1_day3
         {
             #region Q1
             //1- Write a program that allows the user to enter a number then print it.
-            //Console.WriteLine("please Enter Number:");
-            //int number = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Your entered number is:" +number);
+            Console.WriteLine("please Enter Number:");
+            int number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your entered number is:" +number);
             #endregion
 
             Console.WriteLine("-----------------------------------------");
 
             #region Q2
             //2- Write a program that takes a number from the user then print yes if that number can be divided by 3 and 4 otherwise print no.
-            //Console.WriteLine("Enter a number:");
-            //int num = Convert.ToInt32(Console.ReadLine());
-            //string result = (num % 3 == 0) && (num % 4 == 0) ? "can be divided" : "can be divided";
-            //Console.WriteLine("Your entered number is:" + result);
+            Console.WriteLine("Enter a number:");
+            int num = Convert.ToInt32(Console.ReadLine());
+            string result = (num % 3 == 0) && (num % 4 == 0) ? "can be divided" : "can be divided";
+            Console.WriteLine("Your entered number is:" + result);
             #endregion
 
             #region Q3
@@ -104,12 +104,12 @@ namespace Task1_day3
             #region Q9
             //9- Write a program that allows the user to insert an integer then print a multiplication table up to 12.
 
-            //    Console.WriteLine("Enter Integer value:");
-            //    int val=Convert.ToInt32(Console.ReadLine()); 
-            //    for (int i = val;i<=12; i++)
-            //    {
-            //        Console.WriteLine($"{val} * {i} = {val * i}");
-            //    }
+                Console.WriteLine("Enter Integer value:");
+                int val=Convert.ToInt32(Console.ReadLine()); 
+                for (int i = val;i<=12; i++)
+                {
+                    Console.WriteLine($"{val} * {i} = {val * i}");
+               }
             #endregion
 
             #region Q10
