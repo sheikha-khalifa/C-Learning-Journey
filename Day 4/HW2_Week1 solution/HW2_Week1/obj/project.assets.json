@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\day1,day2\\HW2_Week1 solution\\HW2_Week1\\HW2_Week1.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\C#Learning Journey\\Day 4\\HW2_Week1 solution\\HW2_Week1\\HW2_Week1.csproj",
       "projectName": "HW2_Week1",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\day1,day2\\HW2_Week1 solution\\HW2_Week1\\HW2_Week1.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\C#Learning Journey\\Day 4\\HW2_Week1 solution\\HW2_Week1\\HW2_Week1.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\day1,day2\\HW2_Week1 solution\\HW2_Week1\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\C#Learning Journey\\Day 4\\HW2_Week1 solution\\HW2_Week1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

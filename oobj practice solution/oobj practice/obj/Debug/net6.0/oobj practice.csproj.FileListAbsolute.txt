@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\bin\Debug\net6.0\oobj practice.exe
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\bin\Debug\net6.0\oobj practice.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\bin\Debug\net6.0\oobj practice.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\bin\Debug\net6.0\oobj practice.dll
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\bin\Debug\net6.0\oobj practice.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.dll
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\refint\oobj practice.dll
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\oobj practice.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\oobj practice solution\oobj practice\obj\Debug\net6.0\ref\oobj practice.dll

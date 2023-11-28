@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\bin\Debug\net6.0\5 programming problems.exe
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\bin\Debug\net6.0\5 programming problems.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\bin\Debug\net6.0\5 programming problems.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\bin\Debug\net6.0\5 programming problems.dll
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\bin\Debug\net6.0\5 programming problems.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.dll
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\refint\5 programming problems.dll
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\5 programming problems.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\5 programming problems solution\5 programming problems\obj\Debug\net6.0\ref\5 programming problems.dll

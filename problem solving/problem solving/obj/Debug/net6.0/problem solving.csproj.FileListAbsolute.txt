@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\bin\Debug\net6.0\problem solving.exe
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\bin\Debug\net6.0\problem solving.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\bin\Debug\net6.0\problem solving.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\bin\Debug\net6.0\problem solving.dll
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\bin\Debug\net6.0\problem solving.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.dll
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\refint\problem solving.dll
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\problem solving.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\problem solving\problem solving\obj\Debug\net6.0\ref\problem solving.dll
