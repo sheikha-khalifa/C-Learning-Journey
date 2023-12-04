@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\bin\Debug\net6.0\cashier example using interface.exe
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\bin\Debug\net6.0\cashier example using interface.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\bin\Debug\net6.0\cashier example using interface.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\bin\Debug\net6.0\cashier example using interface.dll
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\bin\Debug\net6.0\cashier example using interface.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.dll
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\refint\cashier example using interface.dll
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\cashier example using interface.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\cashier example solution\cashier example using interface\obj\Debug\net6.0\ref\cashier example using interface.dll

@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\bin\Debug\net6.0\HTTPS REQUEST.exe
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\bin\Debug\net6.0\HTTPS REQUEST.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\bin\Debug\net6.0\HTTPS REQUEST.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\bin\Debug\net6.0\HTTPS REQUEST.dll
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\bin\Debug\net6.0\HTTPS REQUEST.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.dll
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\refint\HTTPS REQUEST.dll
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\ref\HTTPS REQUEST.dll
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\C#Learning Journey\HTTPS REQUEST\HTTPS REQUEST\obj\Debug\net6.0\HTTPS REQUEST.csproj.CopyComplete

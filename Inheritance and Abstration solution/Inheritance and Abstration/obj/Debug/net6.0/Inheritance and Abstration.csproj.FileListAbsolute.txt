@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\bin\Debug\net6.0\Inheritance and Abstration.exe
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\bin\Debug\net6.0\Inheritance and Abstration.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\bin\Debug\net6.0\Inheritance and Abstration.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\bin\Debug\net6.0\Inheritance and Abstration.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\bin\Debug\net6.0\Inheritance and Abstration.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\refint\Inheritance and Abstration.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\Inheritance and Abstration.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Inheritance and Abstration solution\Inheritance and Abstration\obj\Debug\net6.0\ref\Inheritance and Abstration.dll

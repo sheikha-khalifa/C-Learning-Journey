@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\inheritance solution\inheritance\obj\Debug\net6.0\ref\inheritance.dll
