@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\bin\Debug\net6.0\Homework 1 – Week 4.exe
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\bin\Debug\net6.0\Homework 1 – Week 4.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\bin\Debug\net6.0\Homework 1 – Week 4.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\bin\Debug\net6.0\Homework 1 – Week 4.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\bin\Debug\net6.0\Homework 1 – Week 4.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\refint\Homework 1 – Week 4.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\Homework 1 – Week 4.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Homework 1 – Week 4 solution\Homework 1 – Week 4\obj\Debug\net6.0\ref\Homework 1 – Week 4.dll

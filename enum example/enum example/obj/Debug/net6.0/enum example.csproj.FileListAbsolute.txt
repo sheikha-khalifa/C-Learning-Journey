@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\bin\Debug\net6.0\enum example.exe
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\bin\Debug\net6.0\enum example.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\bin\Debug\net6.0\enum example.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\bin\Debug\net6.0\enum example.dll
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\bin\Debug\net6.0\enum example.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.dll
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\refint\enum example.dll
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\enum example.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\enum example\enum example\obj\Debug\net6.0\ref\enum example.dll

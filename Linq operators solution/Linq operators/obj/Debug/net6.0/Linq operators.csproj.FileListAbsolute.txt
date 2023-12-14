@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\bin\Debug\net6.0\Linq operators.exe
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\bin\Debug\net6.0\Linq operators.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\bin\Debug\net6.0\Linq operators.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\bin\Debug\net6.0\Linq operators.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\bin\Debug\net6.0\Linq operators.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\refint\Linq operators.dll
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\Linq operators.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\Linq operators solution\Linq operators\obj\Debug\net6.0\ref\Linq operators.dll

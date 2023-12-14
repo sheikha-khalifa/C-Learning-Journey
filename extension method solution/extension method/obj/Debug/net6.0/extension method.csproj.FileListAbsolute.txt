@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\bin\Debug\net6.0\extension method.exe
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\bin\Debug\net6.0\extension method.deps.json
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\bin\Debug\net6.0\extension method.runtimeconfig.json
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\bin\Debug\net6.0\extension method.dll
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\bin\Debug\net6.0\extension method.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.dll
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\refint\extension method.dll
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.pdb
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\extension method.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C#Learning Journey\extension method solution\extension method\obj\Debug\net6.0\ref\extension method.dll
